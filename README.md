@@ -1,0 +1,2 @@
+# Manuseio-Microsoft-copilot
+Copi
